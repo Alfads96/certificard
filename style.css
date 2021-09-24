@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 body {
-  background: linear-gradient(236.85deg, green 27.26%, gray 96.03%);
+/*   background: linear-gradient(236.85deg, green 27.26%, gray 96.03%); */
+  background-image: url("https://images.freeimages.com/images/large-previews/01a/technology-background-1632715.jpg");
   font-family: "Roboto", sans-serif;
 }
 
@@ -80,9 +81,9 @@ body {
   text-decoration: none;
 }
 
-.dark {
+/* .dark {
   background: linear-gradient(236.85deg, #375b86 27.26%, #6b87a9 96.03%);
-}
+} */
 
 .dark .container {
   background: #333439;
